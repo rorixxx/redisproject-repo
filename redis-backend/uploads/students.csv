@@ -1,0 +1,11 @@
+ID,Name,Course,Age,Address,Email,Number,Gender
+1,John Doe,Computer Science,20,123 Main St,johndoe@example.com,555-1234,Male
+2,Jane Smith,Mathematics,22,456 Elm St,janesmith@example.com,555-5678,Female
+3,Michael Johnson,Engineering,21,789 Oak St,michaelj@example.com,555-9101,Male
+4,Emily Brown,Biology,19,101 Pine St,emilybrown@example.com,555-1122,Female
+5,David Wilson,Physics,23,202 Maple St,davidwilson@example.com,555-3344,Male
+6,Jessica Taylor,History,20,303 Cedar St,jessicataylor@example.com,555-5566,Female
+7,Daniel Anderson,Chemistry,21,404 Birch St,danielanderson@example.com,555-7788,Male
+8,Sarah Lee,Literature,22,505 Spruce St,sarahlee@example.com,555-9900,Female
+9,William Martinez,Philosophy,19,606 Walnut St,william.m@example.com,555-1133,Male
+10,Olivia Garcia,Art,23,707 Cherry St,oliviagarcia@example.com,555-2244,Female
